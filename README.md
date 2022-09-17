@@ -16,3 +16,10 @@ Bir proje içerisinde motive olmak amacıyla öğrendiğim yeni güzel şeyleri 
 - Prop ve state etkili kullanımı
 - Macbook Air klavyesi üzerinde " ` " yani backstick işareti yapımı
 - Jsx formatında style oluşturma.
+
+
+
+## Ekran görselleri
+
+
+<img width="1432" alt="Adsız" src="https://user-images.githubusercontent.com/44698680/190877406-2ebca8a9-86bd-4c43-9311-fd2d7cb7e053.png">
