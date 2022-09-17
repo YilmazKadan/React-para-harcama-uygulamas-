@@ -1,28 +1,26 @@
 [
-
     {
-        "id" : 1,
-        "title" : "Sakız",
-        "price" : 0.5
-    }, 
+        "id": 1,
+        "title": "Sakız",
+        "price": 0.5,
+        "image" : "https://www.diatek.com.tr/uploads/sakiz2.png"
+    },
     {
-        "id" : 2,
-        "title" : "Araba",
-        "price" : 500000
-    }, 
+        "id": 2,
+        "title": "Araba",
+        "price": 20,
+        "image" : "https://arabam-blog.mncdn.com/wp-content/uploads/2021/05/skoda-fabia-2021.jpg"
+    },
     {
-        "id" : 3,
-        "title" : "Telefon",
-        "price" : 20000
-    }, 
+        "id": 3,
+        "title": "Telefon",
+        "price": 20,
+        "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/129876-2-2_large.jpg"
+    },
     {
-        "id" : 4,
-        "title" : "Gözlük",
-        "price" : 2000
-    }, 
-    {
-        "id" : 5,
-        "title" : "Kitap",
-        "price" : 100
+        "id": 4,
+        "title": "Gözlük",
+        "price": 25,
+        "image": "https://img.joomcdn.net/0a12597010c0ab231a6c2eb6eec097ec00d69321_original.jpeg"
     }
 ]
